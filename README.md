@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">My name is Rodhi Faisal Mufid, my nick name is Mufid.</h3>
 
 ## 🙋‍♂️ About Me
@@ -11,9 +11,13 @@
 
 - 📫 How to reach me **rodhifaisalmufid2@gmail.com**
 
+- 👨🏻‍💻 Let's study together with me
+
 ## Connect with me:
 <p align="left">
     <a href = "https://www.linkedin.com/in/rodhifaisalmufid/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://twitter.com/TheFaisalMufid/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href = "https://www.instagram.com/faisalmufid1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodhi2&show_icons=true&locale=en&layout=compact" alt="rodhi2" /></p>
