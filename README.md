@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻 Let's study together with me
 
-## Connect with me:
+## Connect with me
 <p align="left">
     <a href = "https://www.linkedin.com/in/rodhifaisalmufid/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://twitter.com/TheFaisalMufid/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
