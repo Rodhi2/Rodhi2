@@ -8,19 +8,28 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Technology of Web, Mobile, and Language.**
+```yaml
+name: Rodhi Faisal Mufid
+nick_name: Mufid
+located_in: Indonesian
+from: Trisnomaju (Negerikaton)
+position: Frontend & UI/UX Design
+education: ["Bachelor in Informatics Engineering"]
+currently_learning: ["Vue Js", "Node JS", "Django"]
+skill_learn: ["HTML, CSS, Javascript"]
+hobbies: ["Reading", "Writing", "Listening Music", "Traveling"]
+```
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **rodhifaisalmufid2@gmail.com**
-
-- 👨🏻‍💻 Let's study together with me
+👨🏻‍💻 Let's study together with me
 
 ## Connect with me
 <p align="left">
     <a href = "https://www.linkedin.com/in/rodhifaisalmufid/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://twitter.com/TheFaisalMufid/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href = "https://www.instagram.com/faisalmufid1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1615?logoColor=white%26project=%26recentMS=0%26showProject=false" />
 </p>
 
 ### How this works
