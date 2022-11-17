@@ -4,8 +4,7 @@
 <h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Rodhi2/Rodhi2/blob/master/gifs/Halo.gif" width="30"></h2>
 </div>
 
-<h3 align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></h3>
-<h3 align="center"><P>Welcome to my world!</P></h3>
+<h3 align="center"><b><P> Welcome To My World!</P></b></h3>
 
 ## 🙋‍♂️ About Me
 
