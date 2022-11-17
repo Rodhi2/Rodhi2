@@ -1,7 +1,9 @@
-<h2 align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br></h3>
+<h2 align="center"><img src="https://github.com/Rodhi2/Rodhi2/blob/main/images/bekerja.gif?raw=true" href="https://github.com/Rodhi" alt="CoDiNg RocKs"  width="60%"/><br></h3>
 
-<h1 align="center">Hi there, I'm Mufid <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px"></h1>
+<div align="center">
+<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Rodhi2/Rodhi2/blob/master/gifs/Halo.gif" width="30"></h2>
+</div>
+
 <h3 align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></h3>
 <h3 align="center"><P>Welcome to my world!</P></h3>
 
@@ -25,8 +27,7 @@
 ### How this works
 Let's have fun together
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+<img src="https://github.com/Rodhi2/Rodhi2/blob/main/images/happy_dino.gif?raw=true" href="https://github.com/Rodhi2" width="75%"/><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodhi2&show_icons=true&locale=en&layout=compact" alt="rodhi2" /></p>
 
