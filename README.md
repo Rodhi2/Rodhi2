@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://github.com/Rodhi2/Rodhi2/blob/main/images/bekerja.gif?raw=true" href="https://github.com/Rodhi" alt="CoDiNg RocKs"  width="60%"/><br></h3>
 
 <div align="center">
-<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞 <𝚍𝚎𝚟/>! <img src="https://github.com/Rodhi2/Rodhi2/blob/main/gifs/Halo.gif" width="30"></h2>
+<h2> Hi there <𝚍𝚎𝚟/>! <img src="https://github.com/Rodhi2/Rodhi2/blob/main/gifs/Halo.gif" width="30"></h2>
 </div>
 
 <h3 align="center"><b><P> Welcome To My Digital World!</P></b></h3>
