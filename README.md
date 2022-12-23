@@ -1,9 +1,9 @@
-<h2 align="center"><img src="https://github.com/Rodhi2/Rodhi2/blob/main/images/bekerja.gif?raw=true" href="https://github.com/Rodhi" alt="CoDiNg RocKs"  width="60%"/><br></h3>
+<h2 align="center"><img src="https://github.com/themufid/Rodhi2/blob/main/images/bekerja.gif?raw=true" href="https://github.com/themufid" alt="CoDiNg RocKs"  width="60%"/><br></h3>
 
 <h3 align="center"><b><P> WELCOME TO MY DIGITAL WORLD!</P></b></h3>
 
 <div align="center">
-<h2> Hi there <𝚍𝚎𝚟/>! <img src="https://github.com/Rodhi2/Rodhi2/blob/main/gifs/Halo.gif" width="30"></h2>
+<h2> Hi there <𝚍𝚎𝚟/>! <img src="https://github.com/themufid/Rodhi2/blob/main/gifs/Halo.gif" width="30"></h2>
 </div>
 
 ## 🙋‍♂️ About Me
@@ -13,7 +13,7 @@ name: Rodhi Faisal Mufid
 nick_name: Mufid
 located_in: Indonesian
 from: Trisnomaju (Negerikaton)
-position: Frontend & UI/UX Design
+position: Frontend Development
 education: ["Bachelor in Informatics Engineering"]
 currently_learning: ["Vue Js", "Node JS", "Django"]
 skill_learn: ["UI/UX, HTML, CSS, Javascript"]
@@ -35,7 +35,7 @@ hobbies: ["Reading", "Writing", "Listening Music", "Traveling"]
 ### How this works
 Let's have fun together
 
-<img src="https://github.com/Rodhi2/Rodhi2/blob/main/images/happy_dino.gif?raw=true" href="https://github.com/Rodhi2" width="75%"/><br>
+<img src="https://github.com/Rodhi2/themufid/blob/main/images/happy_dino.gif?raw=true" href="https://github.com/themufid" width="75%"/><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodhi2&show_icons=true&locale=en&layout=compact" alt="rodhi2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themufid&show_icons=true&locale=en&layout=compact" alt="themufid" /></p>
 
